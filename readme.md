@@ -10,5 +10,5 @@ Project to teach high order array methods and DOM manipulation
 - Use filter() to filter only millionaires
 - Use sort() to sort by wealth
 - Use reduce() to add all wealth
-- View/test it here: https://furbo1.github.io/DOM-array-methods---portfolio/
+- View/test it here: https://furbo1.github.io/DOM-array-methods-portfolio/
 
